@@ -54,4 +54,4 @@ print('Hello World')
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white)
