@@ -1,6 +1,6 @@
 # Student-Portfolio
 
-![GitHub Logo](logo.png)
+![GitHub Logo](githublogo.png)
 
 ## WELCOME
 
